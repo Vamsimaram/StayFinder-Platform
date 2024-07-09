@@ -1,7 +1,3 @@
-Certainly! Here's the README file in a detailed format:
-
----
-
 # Hotel Booking Application
 
 ## Introduction
@@ -67,9 +63,6 @@ This project requires Node.js version 14.0.0 or higher. Ensure your environment 
 4. **Accessing the Application:**
    - Open your web browser and go to `http://localhost:your-port-number/` to access the Hotel Booking Application.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgements
 
@@ -77,7 +70,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 - [Cloudinary](https://github.com/cloudinary/cloudinary_npm)
 - [Express.js](https://github.com/expressjs/express)
 - [MongoDB](https://github.com/mongodb/node-mongodb-native)
-
----
-
-Feel free to copy and paste this detailed README into your GitHub repository. Let me know if there's anything else you need help with!
