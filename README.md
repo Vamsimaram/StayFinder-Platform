@@ -19,29 +19,22 @@ The Hotel Booking Application is a user-friendly platform that simplifies the pr
 ## Technologies Used
 
 ### Backend:
-- **Node.js** with **Express.js** , **MongoDB** with **Mongoose**, **Cloudinary** 
+- **Node.js**, **Express.js** 
 
 ### Frontend:
-- **EJS (Embedded JavaScript)** – for server-side rendering of dynamic content in HTML templates.
-- **Bootstrap CSS** – for responsive and mobile-first design.
-- **JavaScript (ES6)** – for interactive client-side functionality.
+- **EJS (Embedded JavaScript)**, **JavaScript (ES6)**, **Bootstrap CSS**
 
 ### Database:
-- **MongoDB** – for storing and managing hotel data, reviews, and user information.
-- **Mongoose** – for object data modeling (ODM) to work seamlessly with MongoDB.
+- **MongoDB**, **Mongoose**
 
 ### APIs & Integrations:
-- **Mapbox API** – for rendering interactive hotel locations on maps.
-- **Cloudinary API** – for image uploads and management.
+- **Mapbox API**, **Cloudinary API**
 
 ### Authentication & Security:
-- **Passport.js** – for handling user authentication and session management.
-- **bcrypt.js** – for password hashing and security.
+- **Passport.js**
 
 ### Other Tools & Libraries:
-- **MVC Architecture** – for separating concerns in the application (Model, View, Controller).
-- **dotenv** – for managing environment variables.
-- **Express-session** – for handling user sessions and cookies.
+- **MVC Architecture**, **dotenv**, **Express-session**
 
 
 ## Installation
