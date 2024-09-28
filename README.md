@@ -19,9 +19,7 @@ The Hotel Booking Application is a user-friendly platform that simplifies the pr
 ## Technologies Used
 
 ### Backend:
-- **Node.js** with **Express.js** – for handling server-side logic and routing.
-- **MongoDB** with **Mongoose** – for managing and querying the NoSQL database.
-- **Cloudinary** – for cloud-based image storage and retrieval.
+- **Node.js** with **Express.js** , **MongoDB** with **Mongoose**, **Cloudinary** 
 
 ### Frontend:
 - **EJS (Embedded JavaScript)** – for server-side rendering of dynamic content in HTML templates.
